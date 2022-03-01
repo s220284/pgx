@@ -1,0 +1,4 @@
+# PGX is moving to Discord
+## Join at https://discord.gg/shellypalmer
+
+PGX.tech will officially move from Mighty Networks to Discord at 11:59pm March 7, 2022. If you have data on PGX you wish to download or save, click here to visit pgx.tech.
